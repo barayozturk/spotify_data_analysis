@@ -46,13 +46,13 @@ Install the required libraries:
 
 Check the correlation between different audio features using a heatmap.
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](heatmap.PNG)
 
 ### Top 5 Genres by Popularity 👑
 
 Visualize the top 5 music genres based on their popularity.
 
-![Top 5 Genres](images/top_5_genres.png)
+![Top 5 Genres](top5.png)
 
 ## License 📄
 
