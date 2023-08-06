@@ -19,7 +19,7 @@ Make sure you have Python and the following libraries installed:
 
 Clone the repository:
   ````bash
-  git clone https://github.com/your-username/music-tracks-analysis.git
+  https://github.com/your-username/music-tracks-analysis.git
   ````
 
 Install the required libraries:
