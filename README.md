@@ -52,7 +52,7 @@ Check the correlation between different audio features using a heatmap.
 
 Visualize the top 5 music genres based on their popularity.
 
-![Top 5 Genres](top5.png)
+![Top 5 Genres](top5.PNG)
 
 ## License 📄
 
